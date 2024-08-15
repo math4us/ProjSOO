@@ -1,0 +1,23 @@
+Requisitos:
+- Gerenciar Cliente
+- Gerenciar Funcionário
+- Gerenciar Fornecedores
+- Gerenciar Produção
+
+Requisitos Funcionais:
+- Cadastrar Cliente
+- Editar Cliente
+- Excluir Cliente
+- Cadastrar Funcionário
+- Editar Funcionário
+- Excluir Funcionário
+- Cadastrar Fornecedores
+- Editar Fornecedores
+- Excluir Fornecedores
+- Informar Produção
+- Implementar sistema de hierarquia de acessos sistema que garanta uma autenticação
+- Implementar
+- Tela de login/senha
+
+Requisitos nao funcionais:
+- Timeout de tempo de resposta do sistema
